@@ -11,5 +11,9 @@
 | Application Name                 | Docker Image Name                          |
 | ------------------------------- | --------------------------------------------- |
 |  Nginx  | nginx |
-| Customized Nginx  | stacksimplify/mynginx_image1 |
-| Simple SpringBoot HelloWorld | stacksimplify / dockerintro-springboot-helloworld-rest-api |
+| Customized Nginx  | kojitechs/mynginx_image1 |
+| Simple SpringBoot HelloWorld | kojitechs / dockerintro-springboot-helloworld-rest-api |
+
+## Docker Documentation Slide
+
+https://onedrive.live.com/edit.aspx?resid=D130DF41A1C1CC5D!175&ithint=file%2cpptx&authkey=!ANVgDa8usXgg2xc
