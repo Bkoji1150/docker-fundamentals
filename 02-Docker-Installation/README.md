@@ -14,6 +14,7 @@
 - To fix it perform the below steps.
 - **Pre-requisite:** Refer below link for additional understanding
 	- https://medium.com/@dakshika/error-creating-the-docker-image-on-macos-wso2-enterprise-integrator-tooling-dfb5b537b44e
+	
 - **Step-1:** Docker Desktop changes
 	- Open Docker Desktop --> Preferences
 	- Uncheck the option named **Securely store Docker logins in macOS keychain**

@@ -15,5 +15,4 @@
 | Simple SpringBoot HelloWorld | kojitechs / dockerintro-springboot-helloworld-rest-api |
 
 ## Docker Documentation Slide
-
 https://onedrive.live.com/edit.aspx?resid=D130DF41A1C1CC5D!175&ithint=file%2cpptx&authkey=!ANVgDa8usXgg2xc
